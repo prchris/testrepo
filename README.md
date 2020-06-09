@@ -1,4 +1,3 @@
-test-repo
+testrepo
 =========
-
-This is a test repo.
+Repo for testing github.
